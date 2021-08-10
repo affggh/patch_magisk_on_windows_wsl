@@ -3,4 +3,4 @@ patch magisk on windows wsl
 # Requarements
  wsl
  
- java(optinal)(for avb1.0 signature)
+ java(optional)(for avb1.0 signature)
